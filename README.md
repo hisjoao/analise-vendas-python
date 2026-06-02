@@ -1,4 +1,6 @@
 # 📊 Análise de Vendas com Python
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Este projeto tem como objetivo analisar dados de vendas para identificar padrões, gerar insights e apoiar a tomada de decisão.
 
